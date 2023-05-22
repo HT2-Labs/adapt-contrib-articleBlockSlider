@@ -29,6 +29,6 @@ jobs:
         run: npm run semantic-release
 
 permissions:
-  contents: read
+  contents: write
   pull-requests: write
   issues: write
